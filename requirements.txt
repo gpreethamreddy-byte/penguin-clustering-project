@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 streamlit
 pandas
 matplotlib
 plotly
+=======
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+>>>>>>> origin/main
