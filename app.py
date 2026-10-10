@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Load dataset
-df = pd.read_csv("penguin_clusters.csv")
+df = pd.read_csv("penguins.csv")
 
 # Main title
 st.title("🐧 Penguin Clustering Dashboard")
